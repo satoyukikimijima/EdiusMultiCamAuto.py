@@ -1,0 +1,2 @@
+# EdiusMultiCamAuto.py
+AtemExtreemIsoで収録した2K マルチカムプロジェクトをダビンチリゾルブでxmlファイルへ exportし、Ediusでそのプロジェクトをimportしてオリジナルカメラの4K プロジェクトとして 再構築するための自動実行アプリケーション
